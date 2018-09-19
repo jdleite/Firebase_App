@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656268952898",
+    "firebase_url": "https://halogen-parser-106312.firebaseio.com",
+    "project_id": "halogen-parser-106312",
+    "storage_bucket": "halogen-parser-106312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656268952898:android:fae8096a605f8f3d",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.firebaseapp.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656268952898-gqs4tl646vv4p8hbv5c16h1vhf79hi5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.firebaseapp.firebaseapp",
+            "certificate_hash": "d40a6c95465f80788a855a989b8ee704b82e2c50"
+          }
+        },
+        {
+          "client_id": "656268952898-bp3cr0905a0f9uccepb5jv4qfv7c2o5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkee9L1dWhb0Xm5PAn5IWWNH_BGgrES8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656268952898-bp3cr0905a0f9uccepb5jv4qfv7c2o5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
